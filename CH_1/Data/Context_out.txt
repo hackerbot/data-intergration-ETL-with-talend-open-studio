@@ -1,0 +1,5 @@
+filterID;
+filterAge;
+inputFile;I:/Docs/CH_1/Lesson_1/CH_1_Metadata_example.xlsx
+filterName;
+outputDirectory;I:/Docs/CH_1/Lesson_1/

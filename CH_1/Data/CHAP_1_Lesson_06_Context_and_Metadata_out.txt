@@ -1,0 +1,5 @@
+filterID;999
+filterAge;40
+inputFile;/Users/ninh/Documents/0Workspace/data-intergration-with-talend-open-studio/CH_1/Data/CH_1_Metadata_example.xlsx
+filterName;Andrew
+outputDirectory;/Users/ninh/Documents/0Workspace/data-intergration-with-talend-open-studio/CH_1/Data/

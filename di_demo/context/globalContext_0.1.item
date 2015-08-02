@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="demo">
+  <contextParameter comment="" name="root" prompt="Set the path of the dir to store the example files folder:" promptNeeded="false" type="id_String" value="C:\TalendDemoFiles\"/>
+  <contextParameter comment="" name="name" prompt="name?" promptNeeded="false" type="id_String" value="Rasevel"/>
+  <contextParameter comment="" name="city" prompt="city?" promptNeeded="false" type="id_String" value="Sroament"/>
+  <contextParameter comment="" name="workspace" prompt="workspace?" promptNeeded="false" type="id_String" value="C:\TalendDemoWorkspace\"/>
+</talendfile:ContextType>
