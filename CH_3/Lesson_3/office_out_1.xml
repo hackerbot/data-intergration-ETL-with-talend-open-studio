@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<offices>
+<details>
+<officeCode>1</officeCode>
+<city>San Francisco</city>
+<phone>+1 650 219 4782</phone>
+<addressLine1>100 Market Street</addressLine1>
+<addressLine2>Suite 300</addressLine2>
+<state>CA</state>
+<country>USA</country>
+<postalCode>94080</postalCode>
+<territory>NA</territory>
+</details>
+<details>
+<officeCode>2</officeCode>
+<city>Boston</city>
+<phone>+1 215 837 0825</phone>
+<addressLine1>1550 Court Place</addressLine1>
+<addressLine2>Suite 102</addressLine2>
+<state>MA</state>
+<country>USA</country>
+<postalCode>02107</postalCode>
+<territory>NA</territory>
+</details>
+<details>
+<officeCode>3</officeCode>
+<city>NYC</city>
+<phone>+1 212 555 3000</phone>
+<addressLine1>523 East 53rd Street</addressLine1>
+<addressLine2>apt. 5A</addressLine2>
+<state>NY</state>
+<country>USA</country>
+<postalCode>10022</postalCode>
+<territory>NA</territory>
+</details>
+<details>
+<officeCode>4</officeCode>
+<city>Paris</city>
+<phone>+33 14 723 4404</phone>
+<addressLine1>43 Rue Jouffroy D\</addressLine1>
+<addressLine2>NULL</addressLine2>
+<state>NULL</state>
+<country>France</country>
+<postalCode>75017</postalCode>
+<territory>EMEA</territory>
+</details>
+<details>
+<officeCode>5</officeCode>
+<city>Tokyo</city>
+<phone>+81 33 224 5000</phone>
+<addressLine1>4-1 Kioicho</addressLine1>
+<addressLine2>NULL</addressLine2>
+<state>Chiyoda-Ku</state>
+<country>Japan</country>
+<postalCode>102-8578</postalCode>
+<territory>Japan</territory>
+</details>
+<details>
+<officeCode>6</officeCode>
+<city>Sydney</city>
+<phone>+61 2 9264 2451</phone>
+<addressLine1>5-11 Wentworth Avenue</addressLine1>
+<addressLine2>Floor #2</addressLine2>
+<state>NULL</state>
+<country>Australia</country>
+<postalCode>NSW 2010</postalCode>
+<territory>APAC</territory>
+</details>
+<details>
+<officeCode>7</officeCode>
+<city>London</city>
+<phone>+44 20 7877 2041</phone>
+<addressLine1>25 Old Broad Street</addressLine1>
+<addressLine2>Level 7</addressLine2>
+<state>NULL</state>
+<country>UK</country>
+<postalCode>EC2N 1HN</postalCode>
+<territory>EMEA</territory>
+</details>
+</offices>

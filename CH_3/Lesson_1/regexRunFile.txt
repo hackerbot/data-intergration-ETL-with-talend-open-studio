@@ -1,0 +1,3 @@
+Name:	Andrew	Email:	foo@demo.net	Web-address:	http://regexr.com/foo.html?q=bar
+Name:	George	Email:		Web-address:	http://foo.co.uk/
+name:	Nicolas	Email:	bar.ba@test.co.uk	web-address:	www.demo.com

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<offices>
+<details>
+<officeCode>1</officeCode>
+<city>San Francisco</city>
+<phone>16502194782</phone>
+<addressLine>100 Market Street, Suite 300</addressLine>
+<state>CA</state>
+<country>USA</country>
+<postalCode>94080</postalCode>
+<territory>NA</territory>
+</details>
+<details>
+<officeCode>2</officeCode>
+<city>Boston</city>
+<phone>12158370825</phone>
+<addressLine>1550 Court Place, Suite 102</addressLine>
+<state>MA</state>
+<country>USA</country>
+<postalCode>02107</postalCode>
+<territory>NA</territory>
+</details>
+<details>
+<officeCode>3</officeCode>
+<city>NYC</city>
+<phone>12125553000</phone>
+<addressLine>523 East 53rd Street, apt. 5A</addressLine>
+<state>NY</state>
+<country>USA</country>
+<postalCode>10022</postalCode>
+<territory>NA</territory>
+</details>
+<details>
+<officeCode>4</officeCode>
+<city>Paris</city>
+<phone>33147234404</phone>
+<addressLine>43 Rue Jouffroy D</addressLine>
+<state>NA</state>
+<country>France</country>
+<postalCode>75017</postalCode>
+<territory>EMEA</territory>
+</details>
+<details>
+<officeCode>5</officeCode>
+<city>Tokyo</city>
+<phone>81332245000</phone>
+<addressLine>4-1 Kioicho</addressLine>
+<state>Chiyoda-Ku</state>
+<country>Japan</country>
+<postalCode>102-8578</postalCode>
+<territory>Japan</territory>
+</details>
+<details>
+<officeCode>6</officeCode>
+<city>Sydney</city>
+<phone>61292642451</phone>
+<addressLine>5-11 Wentworth Avenue, Floor #2</addressLine>
+<state>NA</state>
+<country>Australia</country>
+<postalCode>NSW 2010</postalCode>
+<territory>APAC</territory>
+</details>
+<details>
+<officeCode>7</officeCode>
+<city>London</city>
+<phone>442078772041</phone>
+<addressLine>25 Old Broad Street, Level 7</addressLine>
+<state>NA</state>
+<country>UK</country>
+<postalCode>EC2N 1HN</postalCode>
+<territory>EMEA</territory>
+</details>
+</offices>
