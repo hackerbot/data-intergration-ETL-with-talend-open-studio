@@ -1,0 +1,2 @@
+moment;job;origin;type;code;message
+2015-04-03 12:50:43;Lesson_06_Logging;tMap_1;Java Exception;1;java.lang.RuntimeException:java.text.ParseException: Unparseable date: "X"

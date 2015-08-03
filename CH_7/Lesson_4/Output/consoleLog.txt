@@ -1,0 +1,12 @@
+Lodged GPC|05/02/2013|407209739|Hogg Robinson Group Ltd|861.29||2|DATE:java.text.ParseException: Unparseable date: "X" - Line: 16
+Lodged GPC|07/02/2013|408084910|Hogg Robinson Group Ltd|1595.5||2|DATE:java.text.ParseException: Unparseable date: "x" - Line: 20
+Lodged GPC|07/02/2013|407855618|Hogg Robinson Group Ltd|562.7||2|DATE:java.text.ParseException: Unparseable date: "x" - Line: 22
+Lodged GPC|08/02/2013|408085040|Hogg Robinson Group Ltd|582.59||2|DATE:java.text.ParseException: Unparseable date: "X" - Line: 26
+Lodged GPC|13/02/2013|409769419|Hogg Robinson Group Ltd|2455.52||2|DATE:java.text.ParseException: Unparseable date: "00000000" - Line: 30
+Lodged GPC|15/02/2013|409287434|Hogg Robinson Group Ltd|3939.05||2|DATE:java.text.ParseException: Unparseable date: "00000000" - Line: 35
+Lodged GPC|19/02/2013|410029976|Hogg Robinson Group Ltd|552.55||2|DATE:java.text.ParseException: Unparseable date: "00000000" - Line: 39
+Lodged GPC|20/02/2013|410286048|Hogg Robinson Group Ltd|504.89||2|DATE:java.text.ParseException: Unparseable date: "00000000" - Line: 41
+Lodged GPC|21/02/2013|410670024|Hogg Robinson Group Ltd|533.9||2|DATE:java.text.ParseException: Unparseable date: "00000000" - Line: 43
+Lodged GPC|22/02/2013|410670038|Hogg Robinson Group Ltd|1671.79||2|DATE:java.text.ParseException: Unparseable date: "00000000" - Line: 47
+Lodged GPC|26/02/2013|411438370|Hogg Robinson Group Ltd|586.0||2|DATE:java.text.ParseException: Unparseable date: "00000000" - Line: 50
+Lodged GPC|13/02/2013|Statement 5 Mar 2013|EC GROUP|9831.23||2|DATE:java.text.ParseException: Unparseable date: "x" - Line: 55
